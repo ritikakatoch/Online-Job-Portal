@@ -64,7 +64,7 @@ const Categories = () => {
   //   },
   // ];
   return (
-    <section className="py-16 bg-[#E0FFFF]">
+    <section className="py-16 bg-[#fffff]">
       <div className="container mx-auto px-5">
         <div className="text-center mb-12">
           <h2 className="text-2xl sm:text-3xl md:text-4xl text-primary font-bold">

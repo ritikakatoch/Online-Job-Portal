@@ -34,7 +34,7 @@ const Newsletter = () => {
     e.target.reset();
   };
   return (
-    <section className="bg-[#E0FFFF] p-10 max-w-4xl mx-auto py-16 px-5">
+    <section className="bg-[#ffffff] p-10 max-w-4xl mx-auto py-16 px-5">
       <div className="flex justify-center">
         <div>
           <div>

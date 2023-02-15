@@ -4,15 +4,15 @@ module.exports = {
     themes: [
       {
         talentRecruiter: {
-          primary: "#1B415B",
-          secondary: "#3276A8",
-          accent: "#7FFFD4", //
-          neutral: "#90949F", //
+          primary: "#84a59d",
+          secondary: "#BA94D1",
+          accent: "#658864", //
+          neutral: "black", //
           "base-100": "#ffffff",
-          info: "#98A8DD", //
-          success: "#49ACF4",
+          info: "#658864", //
+          success: "#5d3d84",
           // warning: "#40E0D0",
-          error: "#FA5C5C", //
+          error: "#FFB26B", //
           
         },
       },

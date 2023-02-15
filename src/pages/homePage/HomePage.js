@@ -14,7 +14,7 @@ const HomePage = () => {
     <>
       <Banner />
       <Categories />
-      <FeatureJobs />
+      {/* <FeatureJobs /> */}
       <BrowseJobsBanner />
       <HowItWork />
       <ProfileBanner />

@@ -80,7 +80,7 @@ const Review = () => {
     >
       {reviews.map((review) => (
         <SwiperSlide key={review._id}>
-          <div className="card rounded-none bg-[#d0ffce] shadow-xl">
+          <div className="card rounded-none bg-[#ffffff] shadow-xl">
             <figure className="pt-5">
               {/* <img src={review.img} alt="Shoes" className="rounded-xl h-24" /> */}
             </figure>

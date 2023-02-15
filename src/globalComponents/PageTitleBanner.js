@@ -7,7 +7,7 @@ const PageTitleBanner = ({ title }) => {
   return (
     <>
       <PageTitle title={title} />
-      <div className="py-8 bg-[#d0ffce]">
+      <div className="py-8 bg-[#BA94D1]">
         <div className="container mx-auto px-5 text-center md:text-start">
           <h2 className="text-black text-2xl md:text-3xl font-bold">
             {title}

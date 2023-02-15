@@ -5,14 +5,14 @@ import { Link } from "react-router-dom";
 
 const BrowseJobsBanner = () => {
   return (
-    <div className="bg-[#E0FFFF]">
+    <div className="bg-[#ffffff]">
       <div className="grid grid-cols-1 md:grid-cols-2 gap-2 py-16 items-center container mx-auto px-5">
         <div>
           <h1 className="text-2xl md:text-3xl font-bold text-accent mb-3 md:mb-5">
             <span className="text-info">7,000+</span>
             Browse Jobs
           </h1>
-          <p className="py-6 text-natural">
+          <p className="py-6 text-cyan">
             Search all the open positions on the web. Get your own personalized
             salary estimate. Read reviews on over 600,000 companies worldwide.
             The right job is out there.

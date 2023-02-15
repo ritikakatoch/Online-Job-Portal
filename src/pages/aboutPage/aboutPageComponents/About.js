@@ -2,7 +2,7 @@ import React from "react";
 
 const About = () => {
   return (
-    <section className="py-16">
+    <section className="py-16 " >
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 container mx-auto px-5">
         <div className="flex justify-start items-center sm:mb-5 ">
           <img

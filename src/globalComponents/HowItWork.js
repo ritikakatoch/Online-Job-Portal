@@ -9,7 +9,7 @@ import { Link } from "react-router-dom";
 const HowItWork = () => {
   return (
     <section>
-      <div className="py-10 container bg-[#E0FFFF]  mx-auto p-4">
+      <div className="py-10 container bg-[#ffffff]  mx-auto p-4">
         <div className="text-center ">
           <h1 className="text-2xl sm:text-3xl md:text-4xl mb-3 font-bold text-primary">
             How Talent Recruiter Work

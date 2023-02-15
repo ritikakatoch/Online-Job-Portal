@@ -3,7 +3,7 @@ import blogBanner from "../../../assets/images/blogBanner.webp";
 
 const ProfileBanner = () => {
   return (
-    <section className="py-16 bg-secondary">
+    <section className="py-16">
       <div className="grid lg:grid-cols-2 justify-center items-center px-5 gap-10 container mx-auto">
         {/*...........blog banner info data start....... */}
         <div className="flex justify-center items-center">
@@ -15,7 +15,7 @@ const ProfileBanner = () => {
               Our expert job research team wrote the blog. Those will help you
               to get your desired job.
             </h1>
-            <p className="text-base text-neutral mb-5">
+            <p className="text-base text-black mb-5">
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus
               tempore porro reiciendis? Qui obcaecati assumenda earum
               reprehenderit facere.

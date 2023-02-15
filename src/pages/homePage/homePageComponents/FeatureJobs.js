@@ -25,7 +25,7 @@ const FeatureJobs = () => {
     );
   } else if (data?.result?.length === 0) {
     content = (
-      <div className="text-xl text-yellow-300 text-center">
+      <div className="text-xl text-yellow-400 text-center">
         No feature jobs found
       </div>
     );
@@ -40,7 +40,7 @@ const FeatureJobs = () => {
   }
   // console.log(data);
   return (
-    <section className="py-16 bg-[#E0FFFF] ">
+    <section className="py-16 bg-[#ffffff] ">
       <div className="container mx-auto px-5">
         <div className="text-center mb-12">
           <h2 className="text-2xl sm:text-3xl md:text-4xl text-info font-bold">

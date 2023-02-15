@@ -35,7 +35,7 @@ const Register = () => {
     <>
       <PageTitleBanner title="Register" />
       <div className="flex py-8 sm:pt-16  px-2 justify-center items-center">
-        <div className="card w-96 bg-base-100 shadow-xl rounded-none">
+        <div className="card w-96 bg-base-100 bg[#118ab2] shadow-xl rounded-none">
           <div className="card-body">
             {/* ......social login button..... */}
             <div className="flex gap-2 mb-3">
