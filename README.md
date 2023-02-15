@@ -1,8 +1,6 @@
-# Hierarchy of talent-recruiter web app
 
-![talent-recruiter](./src/assets/images/hierarchy-of-talent-recruiter.png)
 
-# Overview of Talent Recruiter
+# Overview of Relevel
 
 TalentRecruiter is a job hunting platform where users can find the desired jobs. In this web application, we provide different kinds of jobs from multiple companies. Job seekers can post resumes, portfolios, and work-related profiles on many Internet job boards. Employers and recruiters can look through such information when searching for candidates to hire.
 
